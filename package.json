@@ -6,6 +6,7 @@
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
+    "@types/axios": "^0.14.0",
     "@types/jest": "^27.5.2",
     "@types/node": "^16.18.71",
     "@types/react": "^18.2.48",
@@ -39,5 +40,12 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.16",
+    "css-loader": "^6.9.0",
+    "postcss": "^8.4.33",
+    "postcss-loader": "^7.3.4",
+    "tailwindcss": "^3.4.1"
   }
 }
